@@ -1,0 +1,3 @@
+- Os testes de unidade são mais rápidos do que os testes funcionais, uma vez que eles focam em "partes menores" do código como métodos e classes.
+
+- Os testes de unidade são independentes, onde caso haja alguma dependência iremos simular essa dependência. Os testes funcionais podem necessitar de diversas dependências.
