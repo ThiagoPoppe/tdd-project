@@ -1,0 +1,6 @@
+A imagem apresentada representa um fluxograma para aplicarmos a ideia de TDD
+quando estivermos trabalhando com testes de unidade e testes funcionais.
+
+De forma geral, iremos escrever um teste funcional e verificar se o mesmo passa. Inicialmente ele obviamente não irá passar (estado vermelho), então devemos criar um código simples (baby-steps) que faça com que o teste funcional chegue no estado verde. Note que para escrever tal código iremos fazer o uso dos testes de unidade, que, por sua vez, terá o seu próprio ciclo TDD, colocando em prática os fundamentos vistos em sala de aula.
+
+Para concluir brevemente a ideia proposta, teremos no caso dois ciclos TDD aninhados, um para os testes funcionais e outro para os testes de unidade que serão utilizados pelos testes funcionais ao longo do desenvolvimento da nova funcionalidade.
